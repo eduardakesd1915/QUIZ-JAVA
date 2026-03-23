@@ -1,17 +1,17 @@
 Projeto QUIZ - Algoritmos e Linguagem de Programação II
+
 📚 Sobre o Projeto
 Este projeto tem como objetivo aplicar os conceitos estudados na disciplina Algoritmos e Linguagem de Programação II utilizando a linguagem de programação Java.
-
 Os alunos do 2º período dos cursos de Engenharia de Software e Segurança da Informação irão desenvolver um sistema de Quiz (Perguntas e Respostas) que será executado via console/terminal.
 
 🎯 Objetivo
 Criar um sistema simples de perguntas e respostas que:
-
 Instancie uma lista de 15 questões (objetos da classe Questao);
 Apresente cada questão ao usuário, permitindo a escolha de uma alternativa;
 No final, exiba:
 A quantidade de acertos do usuário;
 A porcentagem de acertos com base no total de questões.
+
 🧱 Estrutura Básica
 Linguagem: Java
 Meio Ambiente: Console (Terminal)
